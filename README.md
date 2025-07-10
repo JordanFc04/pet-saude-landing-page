@@ -9,11 +9,5 @@ Este projeto consiste no desenvolvimento de uma Landing Page para a iniciativa "
 - HTML5 para a estrutura semântica.
 - CSS3 para estilização e responsividade.
 
-# Instruções para Rodar o Projeto Localmente
-1. Clone este repositório para o seu computador:
-   `git clone []`
-2. Navegue até a pasta do projeto clonado.
-3. Abra o arquivo `pet-saude.html` em qualquer navegador web.
-
-## Considerações e Desafios
+# Considerações e Desafios
 Desenvolvido com foco em uma estética clean e responsividade básica. O prazo limitado exigiu priorização da funcionalidade e dos requisitos essenciais.s
